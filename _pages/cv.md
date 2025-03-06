@@ -9,7 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-[Click here to download my CV (PDF)](/assets/cv.pdf)
+[Click here to download my CV (PDF)]({{ site.baseurl }}/assets/cv.pdf)
+
 <!--
 Education
 ======
