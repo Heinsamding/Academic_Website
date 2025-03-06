@@ -9,11 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
+[Click here to download my CV (PDF)](/assets/cv.pdf)
+<!--
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in HCI, IIT Bombay, 2027 (expected)
+* M.Tech in CSE, NIT Surathkal, 2021
+* B.Tech in CSE, NIT Nagaland, 2018
 
 Work experience
 ======
@@ -53,7 +55,7 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
+<Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
@@ -62,3 +64,5 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+
+-->

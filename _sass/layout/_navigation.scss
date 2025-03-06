@@ -174,15 +174,20 @@
 
 .greedy-nav {
   position: relative;
-  min-width: 250px;
+  width: 100%; /* Ensures full width */
+  min-height: 50px; /* Adjust height to cover enough space */
   background: var(--global-bg-color);
+  display: flex;
+  align-items: center; /* Centers text vertically */
+  padding: 0 1rem; /* Adds spacing to avoid text sticking to edges */
 
   a {
     display: block;
     margin: 0 1rem;
     padding: 0.5rem 0;
-    color: var(--global-masthead-link-color);
+    color: #6495ED !important; /* Sky blue */
     text-decoration: none;
+    font-weight: bold; /* Make text more readable */
 
     &:hover {
       color: var(--global-masthead-link-color-hover);
