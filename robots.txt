@@ -1,1 +1,1 @@
-Sitemap: http://localhost:4000/webpage/sitemap.xml
+Sitemap: https://heinsamding.github.io/webpage/sitemap.xml
