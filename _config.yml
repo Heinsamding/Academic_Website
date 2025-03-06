@@ -14,7 +14,7 @@ title_separator          : "-"
 name                     : &name "Sam"
 description              : &description "From Nagaland, India"
 url                      : "https://heinsamding.github.io"
-baseurl                  : "webpage" # the subpath of your site, e.g. "/blog"
+baseurl                  : "/webpage" # the subpath of your site, e.g. "/blog"
 repository               : #
 
 # Site Author - The following control what appear as part of the author content on the side bar.
